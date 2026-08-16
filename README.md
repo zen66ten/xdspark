@@ -1,7 +1,7 @@
 # xdspark
 
 XDP program + Go daemon that count bytes and packets per IP protocol on a
-network interface, aggregate them over a sliding window, and draw live
+network interface, aggregate them over a sliding window, and draw cool
 sparklines in a terminal. Observability only: every packet still passes
 through the host stack untouched.
 
